@@ -1,9 +1,9 @@
 
 {
   "schemaVersion": 2,
-  "id": "zoncolan",
+  "id": "vel-indoorbike-routes",
   "name": "monte Zoncolan",
-  "description": "Cycling routes including Monte Zoncolan from Ovaro and Col du Tourmalet.",
+  "description": "Monte Zoncolan from Ovaro",
   "author": "velisar",
   "routeBundles": [
     {
