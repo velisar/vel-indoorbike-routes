@@ -1,0 +1,17 @@
+
+{
+  "schemaVersion": 2,
+  "id": "zoncolan",
+  "name": "monte Zoncolan",
+  "description": "Cycling routes including Monte Zoncolan from Ovaro and Col du Tourmalet.",
+  "author": "velisar",
+  "routeBundles": [
+    {
+      "id": "routes",
+      "name": "Routes",
+      "schemaVersion": 1,
+      "version": 1,
+      "url": "routes.json"
+    }
+  ]
+}
