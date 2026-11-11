@@ -112,11 +112,11 @@
     "schemaVersion": 1,
     "id": "gura-raului-paltinis",
     "name": "Gura Raului - Paltinis",
-    "description": "Gura Raului to Paltinis, drawn in Google My Maps; elevation from a recorded ride barometer (SuperCycle app).",
+    "description": "Gura Raului to Paltinis, drawn in Google My Maps; elevation from a recorded ride (SuperCycle app).",
     "version": 1,
     "gpxUrl": "gpx_files/gura-raului-paltinis.gpx",
-    "gpxBytes": 34749,
-    "gpxSha256": "aa788e6d60192bef076211408de9350b43d50341f037b43639e066d73a454c2d",
+    "gpxBytes": 34732,
+    "gpxSha256": "c775edb7d434c6a0172d2367b1c9f4f0f23f94c3986e4beaa11f83e86359bb14",
     "distanceMeters": 9845,
     "ascentMeters": 608.2,
     "descentMeters": 0,
@@ -214,7 +214,7 @@
       24.00806
     ],
     "attribution": {
-      "source": "Google My Maps (cycling directions); elevation from own barometric ride recording",
+      "source": "Google My Maps (cycling directions); elevation from own recorded ride (SuperCycle app)",
       "modified": true
     }
   }
